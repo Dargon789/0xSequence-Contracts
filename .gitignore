@@ -1,0 +1,23 @@
+# Forge
+out/
+cache/
+lcov.info
+report/
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# PNPM
+node_modules/
+pnpm-error.log
+
+# Env vars
+.env
+/lib
+/lib
+/lib
+/lib
+/lib
+/lib
+*.tgz
+/counter
