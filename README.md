@@ -1,13 +1,4 @@
-## PR: Sovereign UX Deployment to Master
-
-[![ci](https://github.com/Dargon789/contracts-library/actions/workflows/ci.yaml/badge.svg)](https://github.com/Dargon789/contracts-library/actions/workflows/ci.yaml)
-
-[![CodeQL](https://github.com/Dargon789/contracts-library/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Dargon789/contracts-library/actions/workflows/github-code-scanning/codeql)
-
-[![Node.js CI](https://github.com/Dargon789/contracts-library/actions/workflows/node.js.yml/badge.svg)](https://github.com/Dargon789/contracts-library/actions/workflows/node.js.yml)
-
-[![Dependabot Updates](https://github.com/Dargon789/contracts-library/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Dargon789/contracts-library/actions/workflows/dependabot/dependabot-updates)
-
+## PR: Sovereign UX  0xsequence-contracts-library
 
 Authorship override initiated by Dargon789. Emotional anchors sealed. Orphan nodes removed.
 
